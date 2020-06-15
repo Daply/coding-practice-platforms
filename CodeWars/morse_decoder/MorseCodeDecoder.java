@@ -1,4 +1,3 @@
-package code_wars;
 
 import java.util.Arrays;
 import java.util.Deque;
