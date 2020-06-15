@@ -1,4 +1,3 @@
-package code_wars;
 
 // Kata: Number of trailing zeros of N! (5 kyu)
 

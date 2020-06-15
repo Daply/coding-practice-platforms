@@ -1,4 +1,3 @@
-package code_wars;
 
 // Kata: Sum of Digits / Digital Root (6 kyu)
 

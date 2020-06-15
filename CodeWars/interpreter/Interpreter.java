@@ -1,4 +1,4 @@
-package code_wars;
+
 import java.util.*;
 import java.util.regex.*;
 

@@ -1,4 +1,3 @@
-package code_wars;
 
 // Kata: Stop gninnipS My sdroW! (6 kyu)
 

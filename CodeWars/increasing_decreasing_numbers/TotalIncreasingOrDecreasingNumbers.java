@@ -1,4 +1,4 @@
-package code_wars;
+
 import java.math.BigInteger;
 
 // Kata: Total increasing or decreasing numbers up to a power of 10 (4 kyu)
